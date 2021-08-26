@@ -2,8 +2,8 @@
 ## Códigos Portifolio
 
 * [Acesso ao banco de dados paa salvar os dados do usuario](Banco_de_dados/diagrama)
-* [Acesso ao banco de dados paa salvar os dados do usuario](Desenvolvimento_de_sistemas)
-* [Acesso ao banco de dados paa salvar os dados do usuario](programacao_aplicadivos)
+* [cassino](Desenvolvimento_de_sistemas)
+* [catador](programacao_aplicadivos)
 
 
 ## PortifolioTecnico_3c

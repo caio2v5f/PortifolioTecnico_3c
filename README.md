@@ -3,7 +3,7 @@
 
 * [Acesso ao banco de dados paa salvar os dados do usuario](Banco_de_dados/diagrama)
 * [cassino](Desenvolvimento_de_sistemas)
-* [catador](programacao_aplicadivos)
+* [imagem](programacao_aplicadivos)
 
 
 ## PortifolioTecnico_3c
